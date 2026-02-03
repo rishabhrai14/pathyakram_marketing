@@ -24,9 +24,18 @@
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   font-size: 24px;
   font-weight: 800;
   color: #4c6ef5;
+}
+
+.logo-image {
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
 }
 
 .logo-text {

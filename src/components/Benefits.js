@@ -39,7 +39,7 @@ const Benefits = () => {
     <section className="benefits" id="benefits">
       <div className="container">
         <div className="section-header">
-          <h2 className="section-title">Why Choose Smansys?</h2>
+          <h2 className="section-title">Why Choose Pathyakram?</h2>
           <p className="section-subtitle">
             Transform your school operations and see measurable results
           </p>

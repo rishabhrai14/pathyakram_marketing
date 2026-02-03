@@ -6,9 +6,9 @@ const CTA = () => {
     <section className="cta" id="contact">
       <div className="container">
         <div className="cta-content">
-          <h2 className="cta-title">Ready to Transform Your School?</h2>
+          <h2 className="cta-title">Ready to Measure Growth & Inspire Success?</h2>
           <p className="cta-subtitle">
-            Join modern schools that have digitized their operations with Smansys. 
+            Join modern schools that have digitized their operations with Pathyakram. 
             Get started today and see the difference.
           </p>
           <div className="cta-buttons">

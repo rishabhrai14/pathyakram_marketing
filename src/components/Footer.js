@@ -7,9 +7,9 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3 className="footer-logo">Smansys</h3>
+            <h3 className="footer-logo">Pathyakram</h3>
             <p className="footer-description">
-              Complete School Management System for modern educational institutions.
+              Measure Growth, Inspire Success. Complete School Management System for modern educational institutions.
             </p>
           </div>
           <div className="footer-section">

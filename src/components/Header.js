@@ -18,7 +18,8 @@ const Header = () => {
       <div className="container">
         <div className="header-content">
           <div className="logo">
-            <span className="logo-text">Smansys</span>
+            <img src="/logo.png" alt="Pathyakram" className="logo-image" />
+            <span className="logo-text">Pathyakram</span>
           </div>
           <nav className={`nav ${isMobileMenuOpen ? 'open' : ''}`}>
             <a href="#features" onClick={() => setIsMobileMenuOpen(false)}>Features</a>

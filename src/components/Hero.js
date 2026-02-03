@@ -8,11 +8,11 @@ const Hero = () => {
         <div className="hero-content">
           <div className="hero-text">
             <h1 className="hero-title">
-              Transform Your School Management
-              <span className="gradient-text"> Digitally</span>
+              Measure Growth,
+              <span className="gradient-text"> Inspire Success</span>
             </h1>
             <p className="hero-subtitle">
-              Smansys is the complete all-in-one platform that replaces manual paperwork, 
+              Pathyakram is the complete all-in-one platform that replaces manual paperwork, 
               streamlines operations, and helps you manage your entire school from one unified interface.
             </p>
             <div className="hero-stats">

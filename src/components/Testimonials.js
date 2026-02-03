@@ -29,7 +29,7 @@ const Testimonials = () => {
         <div className="section-header">
           <h2 className="section-title">What Our Users Say</h2>
           <p className="section-subtitle">
-            Join schools that have transformed their operations with Smansys
+            Join schools that have transformed their operations with Pathyakram
           </p>
         </div>
         <div className="testimonials-grid">

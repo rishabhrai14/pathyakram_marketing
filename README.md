@@ -1,6 +1,7 @@
-# Smansys Marketing Website
+# Pathyakram Marketing Website
 
-Marketing website for Smansys - Complete School Management System.
+Marketing website for Pathyakram - Complete School Management System.
+**Tagline:** Measure Growth, Inspire Success
 
 ## Features
 
