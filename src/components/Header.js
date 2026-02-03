@@ -4,6 +4,7 @@ import './Header.css';
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [logoError, setLogoError] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -18,7 +19,14 @@ const Header = () => {
       <div className="container">
         <div className="header-content">
           <div className="logo">
-            <img src="/logo.png" alt="Pathyakram" className="logo-image" />
+            {!logoError && (
+              <img 
+                src="/logo.png" 
+                alt="Pathyakram" 
+                className="logo-image"
+                onError={() => setLogoError(true)}
+              />
+            )}
             <span className="logo-text">Pathyakram</span>
           </div>
           <nav className={`nav ${isMobileMenuOpen ? 'open' : ''}`}>
